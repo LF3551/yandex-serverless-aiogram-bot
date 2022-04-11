@@ -32,4 +32,4 @@ Simple Telegram bot example on aiogram framework using Yandex Cloud with Webhook
    - put this link to your browser and press `enter`
    - you will get this message: `{"ok":true,"result":true,"description":"Webhook was set"}`
 
-7. Send any message to your bot. Everything should work
+7. Send `/start` message to your bot. Everything should work
