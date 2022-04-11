@@ -16,7 +16,7 @@ Simple echo Telegram bot example on aiogram framework using Yandex Cloud with We
   - copy and paste data from `requirements.txt` to file `requirements.txt` in Cloud   
     Function Editor
   - select below service account you created earlier
-  - add variable `TOKEN` and put your  token`000000000:AAGzBYsdfaYSQ2T-pOPTf_vGFqX-UudfdLBo`
+  - add variable `TOKEN` and put your token data
   - click `Create function`
 
 5. You are back to your Cloud Function view:
