@@ -12,14 +12,14 @@ Simple Telegram bot example on aiogram framework using Yandex Cloud with Webhook
 
 2. Go to [Yandex Cloud Console](https://console.cloud.yandex.ru/)
 
-3. Create *** Yandex Service account*** in Yandex Cloud with roles `editor` and `serverless.functions.invoker`
+3. Create ** Yandex Service account** in Yandex Cloud with roles `editor` and `serverless.functions.invoker`
 
-4. Create  ***Yandex Cloud Function*** in Yandex Cloud:
-  - choose programming language, in our case it will be ***Python***
-  - copy and paste the code from `index.py` to file `index.py` in ***Yandex Cloud Function*** Editor
-  - create file `requirements.txt` in ***Yandex Cloud Function*** Editor
-  - copy and paste data from `requirements.txt` to file `requirements.txt` in ***Yandex Cloud Function*** Editor
-  - select below *** Yandex Service account*** you created earlier
+4. Create  **Yandex Cloud Function** in Yandex Cloud:
+  - choose programming language, in our case it will be **Python**
+  - copy and paste the code from `index.py` to file `index.py` in **Yandex Cloud Function** Editor
+  - create file `requirements.txt` in **Yandex Cloud Function** Editor
+  - copy and paste data from `requirements.txt` to file `requirements.txt` in **Yandex Cloud Function** Editor
+  - select below **Yandex Service account** you created earlier
   - add variable `TOKEN` and put your token data
   - click `Create function`
 
