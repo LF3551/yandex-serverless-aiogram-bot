@@ -24,8 +24,8 @@ Simple Telegram bot example on aiogram framework using Yandex Cloud with Webhook
    - click `Create function`
 
 5. You are back to your **Yandex Cloud Function** view:
-  - check the box `Public function`
-  - copy the link `PUBLIC_FUNCTION_URL` to your public function in notes
+   - check the box `Public function`
+   - copy the link `PUBLIC_FUNCTION_URL` to your public function in notes
 
 6. You need to create Webhook:
    - put your `TOKEN` and `PUBLIC_FUNCTION_URL` in template below 👇
