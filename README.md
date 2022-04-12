@@ -9,7 +9,7 @@ Simple Telegram bot example on aiogram framework using Yandex Cloud with Webhook
 ## Steps 
 1. First create a bot with telegram "[BotFather](http://t.me/BotFather)" and copy token to your notes
 
-2. Go to _Yandex Cloud Console_ https://console.cloud.yandex.ru/
+2. Go to <em>Yandex Cloud Console<em> https://console.cloud.yandex.ru/
 
 3. Create service account in Yandex Cloud with roles `editor` and `serverless.functions.invoker`
 
