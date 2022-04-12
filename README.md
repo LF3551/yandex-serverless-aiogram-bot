@@ -7,7 +7,7 @@ Simple Telegram bot example on aiogram framework using Yandex Cloud with Webhook
 
 
 ## Steps 
-1. First create a bot with telegram "[BotFather](http://t.me/BotFather)" and copy token to your notes
+1. ![progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=15&leftFill=%23FF0000 "progress") First create a bot with telegram "[BotFather](http://t.me/BotFather)" and copy token to your notes
 
 2. Go to [Yandex Cloud Console](https://console.cloud.yandex.ru/)
 
